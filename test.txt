@@ -1,0 +1,6 @@
+Latihan Git dan GitHub
+Nama: Zaky Permana Sidiq
+NIM: 1224015
+Branch: feature-test
+
+File ini dibuat untuk latihan Git Branch dan Commit.
